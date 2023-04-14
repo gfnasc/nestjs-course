@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Course: Developing APIs with NestJS, by Alura
 
 ## Installation
 
