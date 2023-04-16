@@ -11,6 +11,7 @@ export class UsuarioController {
     this.usuarioRepository.salvar(data);
     return data;
   }
+  
   @Get()
   async listaUsuarios() {
     return this.usuarioRepository.listar();
